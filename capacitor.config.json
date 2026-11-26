@@ -1,0 +1,7 @@
+{
+  "appId": "com.chequeitout.app",
+  "appName": "Cheque It Out",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
